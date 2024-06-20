@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>rlawlsghksxkeh 홈페이지</title>
+</head>
+<body>
+    <h1>rlawlsghksxkeh 홈페이지</h1>
+    
+    <p>여기에 사진을 넣을 거에요:</p>
+    <img src="화면캡쳐2024-6-20.jpg" alt="화면캡쳐 2024-6-20">
+    
+    <p>다른 내용을 추가할 수 있어요.</p>
+</body>
+</html>
